@@ -3,3 +3,7 @@ https://docs.google.com/spreadsheets/d/1ZZfG5IjkcNq1GsOqA4InUBSD3QZhQ47abPkAGSOk
 https://docs.google.com/spreadsheets/d/1ZZfG5IjkcNq1GsOqA4InUBSD3QZhQ47abPkAGSOkk3w/edit?resourcekey#gid=1845054153
 
 qlMy7PsMmddkBVTWOaex7JphzcodfgJiNd4gt9U5
+
+https://api.nal.usda.gov/fdc/v1/foods/list
+?api_key=qlMy7PsMmddkBVTWOaex7JphzcodfgJiNd4gt9U5
+&query=Cheddar%20Cheese
